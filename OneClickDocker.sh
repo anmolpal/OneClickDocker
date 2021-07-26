@@ -1,4 +1,4 @@
-Shell Script for Docker
+#Shell Script for Docker
 
 read -t 5 -p "<<<<<<<<<<<<<<<<< Updating your system >>>>>>>>>>>>>>>>>>>> "
 sudo apt-get update
